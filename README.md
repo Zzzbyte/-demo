@@ -24,7 +24,7 @@
 
 > 建议上传一个网页效果图，并在此处展示，例如：
 
-![网站预览图](images/screenshot.png)
+![网站预览图](screenshot.png)
 
 
 2. 将 `images/` 文件夹补充为你自己的图片素材；
